@@ -26,7 +26,7 @@ Exact entity match:
 
 Median real-time factor on CPU: tiny 0.022, base 0.048, small 0.168.
 
-Drug names are the weak spot by far. Doses were right; names came out as near-misses like "Tanzel Austin" (tamsulosin), "surgery line" (sertraline), "Gabby Penton" (gabapentin). Spelled surnames fall apart with noise.
+Drug names are the weak spot by far. The dose was almost always right (1 wrong dose in the 195 medication transcripts my parser could read; 21 more, mostly noisy, didn't parse at all), but names came out as near-misses like "Tanzel Austin" (tamsulosin), "surgery line" (sertraline), "Gabby Penton" (gabapentin). Spelled surnames fall apart with noise.
 
 **With the patient's medication list in the prompt** (`med_prompt.py`): each clip's prompt is "Patient medications: ..." with the right drug plus 4 others, shuffled.
 
