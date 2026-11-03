@@ -1,0 +1,1946 @@
+[
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "omeprazole|20",
+  "got": "omeprazole|20",
+  "ok": true,
+  "text": "I need a refill on my omeprazole, the 20 milligram tablets.",
+  "prompt": "Patient medications: omeprazole, tamsulosin, sertraline, atorvastatin, lisinopril."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "losartan|25",
+  "got": "losartan|25",
+  "ok": true,
+  "text": "I need a refill on my losartan, the 25 milligram tablets.",
+  "prompt": "Patient medications: metformin, gabapentin, losartan, omeprazole, amlodipine."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "meloxicam|15",
+  "got": "meloxicam|15",
+  "ok": true,
+  "text": "I need a refill on my meloxicam, the 15 milligram tablets.",
+  "prompt": "Patient medications: metformin, omeprazole, hydrochlorothiazide, lisinopril, meloxicam."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "tamsulosin|4",
+  "got": "tamsulosin|4",
+  "ok": true,
+  "text": "I need a refill on my tamsulosin, the 4 mg tablets.",
+  "prompt": "Patient medications: losartan, tamsulosin, amlodipine, omeprazole, levothyroxine."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "lisinopril|10",
+  "got": "lisinopril|10",
+  "ok": true,
+  "text": "I need a refill on my lisinopril, the 10 milligram tablets.",
+  "prompt": "Patient medications: omeprazole, hydrochlorothiazide, meloxicam, amlodipine, lisinopril."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "atorvastatin|20",
+  "got": "atorvastatin|20",
+  "ok": true,
+  "text": "I need to refill on my atorvastatin, the 20 milligram tablets.",
+  "prompt": "Patient medications: sertraline, atorvastatin, omeprazole, levothyroxine, tamsulosin."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "levothyroxine|50",
+  "got": "levothyroxine|50",
+  "ok": true,
+  "text": "I need a refill on my levothyroxine, the 50 milligram tablets.",
+  "prompt": "Patient medications: hydrochlorothiazide, meloxicam, levothyroxine, tamsulosin, lisinopril."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "hydrochlorothiazide|25",
+  "got": "hydrochlorothiazide|25",
+  "ok": true,
+  "text": "I need a refill on my hydrochlorothiazide, the 25 milligram tablets.",
+  "prompt": "Patient medications: amlodipine, hydrochlorothiazide, losartan, levothyroxine, omeprazole."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "sertraline|50",
+  "got": "sertraline|50",
+  "ok": true,
+  "text": "I need a refill on my sertraline, the 50 milligram tablets.",
+  "prompt": "Patient medications: tamsulosin, sertraline, hydrochlorothiazide, amlodipine, gabapentin."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "amlodipine|5",
+  "got": "amlodipine|5",
+  "ok": true,
+  "text": "I need a refill on my amlodipine, the 5 milligram tablets.",
+  "prompt": "Patient medications: sertraline, gabapentin, amlodipine, meloxicam, losartan."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "gabapentin|300",
+  "got": "gabapentin|300",
+  "ok": true,
+  "text": "I need a refill on my gabapentin, the 300 milligram tablets.",
+  "prompt": "Patient medications: atorvastatin, amlodipine, meloxicam, omeprazole, gabapentin."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "ok": true,
+  "text": "I need a refill on my metformin, the 500 milligram tablets.",
+  "prompt": "Patient medications: gabapentin, metformin, levothyroxine, atorvastatin, losartan."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "tamsulosin|4",
+  "got": "tamsulosin|4",
+  "ok": true,
+  "text": "I need a refill on my tamsulosin, the 4 milligram tablets.",
+  "prompt": "Patient medications: tamsulosin, gabapentin, hydrochlorothiazide, lisinopril, sertraline."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "gabapentin|300",
+  "got": "gabapentin|300",
+  "ok": true,
+  "text": "I need a refill on my gabapentin, the 300 milligram tablets.",
+  "prompt": "Patient medications: levothyroxine, tamsulosin, gabapentin, sertraline, omeprazole."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "amlodipine|5",
+  "got": "amlodipine|5",
+  "ok": true,
+  "text": "I need a refill on my amlodipine, the 5 milligram tablets.",
+  "prompt": "Patient medications: amlodipine, gabapentin, levothyroxine, atorvastatin, lisinopril."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "ok": true,
+  "text": "I need a refill on my metformin, the 500 milligram tablets.",
+  "prompt": "Patient medications: atorvastatin, levothyroxine, gabapentin, lisinopril, metformin."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "hydrochlorothiazide|25",
+  "got": "hydrochlorothiazide|25",
+  "ok": true,
+  "text": "I need a refill on my hydrochlorothiazide, the 25 milligram tablets.",
+  "prompt": "Patient medications: tamsulosin, levothyroxine, sertraline, gabapentin, hydrochlorothiazide."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "meloxicam|15",
+  "got": "meloxicam|15",
+  "ok": true,
+  "text": "I need a refill on my meloxicam, the 15 milligram tablets.",
+  "prompt": "Patient medications: hydrochlorothiazide, atorvastatin, metformin, gabapentin, meloxicam."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "amlodipine|5",
+  "got": "amlodipine|5",
+  "ok": true,
+  "text": "I need a refill on my amlodipine, the 5 milligram tablets.",
+  "prompt": "Patient medications: atorvastatin, hydrochlorothiazide, tamsulosin, amlodipine, losartan."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "sertraline|50",
+  "got": "sertraline|50",
+  "ok": true,
+  "text": "I need a refill on my sertraline, the 50 milligram tablets.",
+  "prompt": "Patient medications: levothyroxine, amlodipine, sertraline, gabapentin, lisinopril."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "ok": true,
+  "text": "I need a refill on my metformin, the 500 milligram tablets.",
+  "prompt": "Patient medications: metformin, levothyroxine, losartan, meloxicam, atorvastatin."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "atorvastatin|20",
+  "got": "atorvastatin|20",
+  "ok": true,
+  "text": "I need a refill on my atorvastatin, the 20 milligram tablets.",
+  "prompt": "Patient medications: atorvastatin, gabapentin, lisinopril, levothyroxine, meloxicam."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "losartan|25",
+  "got": "losartan|25",
+  "ok": true,
+  "text": "I need a refill on my losartan, the 25 milligram tablets.",
+  "prompt": "Patient medications: metformin, levothyroxine, meloxicam, omeprazole, losartan."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "omeprazole|20",
+  "got": null,
+  "ok": false,
+  "text": "I need a refill on my own",
+  "prompt": "Patient medications: meloxicam, amlodipine, omeprazole, hydrochlorothiazide, lisinopril."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "omeprazole|20",
+  "got": "ownperzole|20",
+  "ok": false,
+  "text": "I need a refill on my own perzole, the 20 milligram tablets.",
+  "prompt": "Patient medications: omeprazole, tamsulosin, sertraline, atorvastatin, lisinopril."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "losartan|25",
+  "got": "losartan|25",
+  "ok": true,
+  "text": "I need a refill on my losartan, the 25 milligram tablets.",
+  "prompt": "Patient medications: metformin, gabapentin, losartan, omeprazole, amlodipine."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "meloxicam|15",
+  "got": "meloxicum|15",
+  "ok": false,
+  "text": "I need a refill on my meloxicum, the 15 milligram tablets.",
+  "prompt": "Patient medications: metformin, omeprazole, hydrochlorothiazide, lisinopril, meloxicam."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "tamsulosin|4",
+  "got": "tamsulosin|4",
+  "ok": true,
+  "text": "I need a refill on my tamsulosin, the 4 mg tablets.",
+  "prompt": "Patient medications: losartan, tamsulosin, amlodipine, omeprazole, levothyroxine."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "lisinopril|10",
+  "got": "lisinopril|10",
+  "ok": true,
+  "text": "I need a refill on my lisinopril, the 10 milligram tablets.",
+  "prompt": "Patient medications: omeprazole, hydrochlorothiazide, meloxicam, amlodipine, lisinopril."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "atorvastatin|20",
+  "got": "atorvastatin|20",
+  "ok": true,
+  "text": "I need to refill on my atorvastatin, the 20 milligram tablets.",
+  "prompt": "Patient medications: sertraline, atorvastatin, omeprazole, levothyroxine, tamsulosin."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "levothyroxine|50",
+  "got": "levothyroxine|50",
+  "ok": true,
+  "text": "I need a refill on my levothyroxine, the 50 milligram tablets.",
+  "prompt": "Patient medications: hydrochlorothiazide, meloxicam, levothyroxine, tamsulosin, lisinopril."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "hydrochlorothiazide|25",
+  "got": "hydrochlorothiazide|25",
+  "ok": true,
+  "text": "I need a refill on my hydrochlorothiazide, the 25 milligram tablets.",
+  "prompt": "Patient medications: amlodipine, hydrochlorothiazide, losartan, levothyroxine, omeprazole."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "sertraline|50",
+  "got": "sertraline|50",
+  "ok": true,
+  "text": "I need a refill on my sertraline, the 50 milligram tablets.",
+  "prompt": "Patient medications: tamsulosin, sertraline, hydrochlorothiazide, amlodipine, gabapentin."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "amlodipine|5",
+  "got": "amlodipine|5",
+  "ok": true,
+  "text": "I need a refill on my amlodipine, the 5 milligram tablets.",
+  "prompt": "Patient medications: sertraline, gabapentin, amlodipine, meloxicam, losartan."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "gabapentin|300",
+  "got": "gabapentin|300",
+  "ok": true,
+  "text": "I need a refill on my gabapentin, the 300 milligram tablets.",
+  "prompt": "Patient medications: atorvastatin, amlodipine, meloxicam, omeprazole, gabapentin."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "ok": true,
+  "text": "I need a refill on my metformin, the 500 milligram tablets.",
+  "prompt": "Patient medications: gabapentin, metformin, levothyroxine, atorvastatin, losartan."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "tamsulosin|4",
+  "got": "tamsulosin|4",
+  "ok": true,
+  "text": "I need a refill on my tamsulosin, the 4 milligram tablets.",
+  "prompt": "Patient medications: tamsulosin, gabapentin, hydrochlorothiazide, lisinopril, sertraline."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "gabapentin|300",
+  "got": "gabapentin|300",
+  "ok": true,
+  "text": "I need a refill on my gabapentin, the 300 milligram tablets.",
+  "prompt": "Patient medications: levothyroxine, tamsulosin, gabapentin, sertraline, omeprazole."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "amlodipine|5",
+  "got": "amlidipine|5",
+  "ok": false,
+  "text": "I need a refill on my amlidipine, the 5 milligram tablets.",
+  "prompt": "Patient medications: amlodipine, gabapentin, levothyroxine, atorvastatin, lisinopril."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "ok": true,
+  "text": "I need a refill on my metformin, the 500 milligram tablets.",
+  "prompt": "Patient medications: atorvastatin, levothyroxine, gabapentin, lisinopril, metformin."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "hydrochlorothiazide|25",
+  "got": "hydrochlorothiazide|25",
+  "ok": true,
+  "text": "I need a refill on my hydrochlorothiazide, the 25 milligram tablets.",
+  "prompt": "Patient medications: tamsulosin, levothyroxine, sertraline, gabapentin, hydrochlorothiazide."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "meloxicam|15",
+  "got": "meloxicam|15",
+  "ok": true,
+  "text": "I need a refill on my meloxicam, the 15 milligram tablets.",
+  "prompt": "Patient medications: hydrochlorothiazide, atorvastatin, metformin, gabapentin, meloxicam."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "amlodipine|5",
+  "got": "amlodipine|5",
+  "ok": true,
+  "text": "I need a refill on my amlodipine, the 5 milligram tablets.",
+  "prompt": "Patient medications: atorvastatin, hydrochlorothiazide, tamsulosin, amlodipine, losartan."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "sertraline|50",
+  "got": "sertraline|50",
+  "ok": true,
+  "text": "I need a refill on my sertraline, the 50 milligram tablets.",
+  "prompt": "Patient medications: levothyroxine, amlodipine, sertraline, gabapentin, lisinopril."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "ok": true,
+  "text": "I need a refill on my metformin, the 500 milligram tablets.",
+  "prompt": "Patient medications: metformin, levothyroxine, losartan, meloxicam, atorvastatin."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "atorvastatin|20",
+  "got": "atorvastatin|20",
+  "ok": true,
+  "text": "I need a refill on my atorvastatin, the 20 milligram tablets.",
+  "prompt": "Patient medications: atorvastatin, gabapentin, lisinopril, levothyroxine, meloxicam."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "losartan|25",
+  "got": "losartan|25",
+  "ok": true,
+  "text": "I need a refill on my losartan, the 25 milligram tablets.",
+  "prompt": "Patient medications: metformin, levothyroxine, meloxicam, omeprazole, losartan."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "omeprazole|20",
+  "got": "ownperzole|20",
+  "ok": false,
+  "text": "I need a refill on my own perzole, the 20 milligram tablets.",
+  "prompt": "Patient medications: meloxicam, amlodipine, omeprazole, hydrochlorothiazide, lisinopril."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "omeprazole|20",
+  "got": "omeprazole|20",
+  "ok": true,
+  "text": "I need a refill on my omeprazole, the 20 milligram tablet.",
+  "prompt": "Patient medications: omeprazole, tamsulosin, sertraline, atorvastatin, lisinopril."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "losartan|25",
+  "got": "losartan|25",
+  "ok": true,
+  "text": "I need a refill on my losartan, the 25 milligram hablin'.",
+  "prompt": "Patient medications: metformin, gabapentin, losartan, omeprazole, amlodipine."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "meloxicam|15",
+  "got": null,
+  "ok": false,
+  "text": "I need a refill on my meloxicam, a 15 milligram tablet.",
+  "prompt": "Patient medications: metformin, omeprazole, hydrochlorothiazide, lisinopril, meloxicam."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "tamsulosin|4",
+  "got": "tamsulosin|4",
+  "ok": true,
+  "text": "I need a refill on my tamsulosin, the 4 milligram tablet.",
+  "prompt": "Patient medications: losartan, tamsulosin, amlodipine, omeprazole, levothyroxine."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "lisinopril|10",
+  "got": null,
+  "ok": false,
+  "text": "I need a refill on my nipinopril, the 10-milligrams hablin.",
+  "prompt": "Patient medications: omeprazole, hydrochlorothiazide, meloxicam, amlodipine, lisinopril."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "atorvastatin|20",
+  "got": "atorvastatin|20",
+  "ok": true,
+  "text": "I need a refill on my atorvastatin, the 20 milligram tablet.",
+  "prompt": "Patient medications: sertraline, atorvastatin, omeprazole, levothyroxine, tamsulosin."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "levothyroxine|50",
+  "got": "levothyroxine|50",
+  "ok": true,
+  "text": "I need a refill on my levothyroxine, the 50 milligrams tablet.",
+  "prompt": "Patient medications: hydrochlorothiazide, meloxicam, levothyroxine, tamsulosin, lisinopril."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "hydrochlorothiazide|25",
+  "got": "hydrochlorothiazide|25",
+  "ok": true,
+  "text": "I need a refill on my hydrochlorothiazide, the 25 milligrams tablets.",
+  "prompt": "Patient medications: amlodipine, hydrochlorothiazide, losartan, levothyroxine, omeprazole."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "sertraline|50",
+  "got": "sertraline|15",
+  "ok": false,
+  "text": "I need a refill on my sertraline, the 15 milligram tablets.",
+  "prompt": "Patient medications: tamsulosin, sertraline, hydrochlorothiazide, amlodipine, gabapentin."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "amlodipine|5",
+  "got": "amlodipinefor|5",
+  "ok": false,
+  "text": "I need a refill on my amlodipine for 5 milligrams tablet.",
+  "prompt": "Patient medications: sertraline, gabapentin, amlodipine, meloxicam, losartan."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "gabapentin|300",
+  "got": "gabapentin|300",
+  "ok": true,
+  "text": "I need a refill on my gabapentin, the 300 milligrams tablet.",
+  "prompt": "Patient medications: atorvastatin, amlodipine, meloxicam, omeprazole, gabapentin."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "ok": true,
+  "text": "I need a refill on my metformin, the 500 milligrams tablet.",
+  "prompt": "Patient medications: gabapentin, metformin, levothyroxine, atorvastatin, losartan."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "tamsulosin|4",
+  "got": "tamsulosin|4",
+  "ok": true,
+  "text": "I need a refill on my tamsulosin, 4 milligrams tablet.",
+  "prompt": "Patient medications: tamsulosin, gabapentin, hydrochlorothiazide, lisinopril, sertraline."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "gabapentin|300",
+  "got": "gabapentin|300",
+  "ok": true,
+  "text": "I need a refill on my gabapentin, the 300 milligrams tablet.",
+  "prompt": "Patient medications: levothyroxine, tamsulosin, gabapentin, sertraline, omeprazole."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "amlodipine|5",
+  "got": "amlodipine|5",
+  "ok": true,
+  "text": "I need a refill on my amlodipine, 5 milligram pabalin.",
+  "prompt": "Patient medications: amlodipine, gabapentin, levothyroxine, atorvastatin, lisinopril."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "metformin|500",
+  "got": null,
+  "ok": false,
+  "text": "I need to refill on my metformin. It's 500 milligram tablets.",
+  "prompt": "Patient medications: atorvastatin, levothyroxine, gabapentin, lisinopril, metformin."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "hydrochlorothiazide|25",
+  "got": null,
+  "ok": false,
+  "text": "I need a refill on my hydrochlorothiazide. It's 25 milligrams hablas.",
+  "prompt": "Patient medications: tamsulosin, levothyroxine, sertraline, gabapentin, hydrochlorothiazide."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "meloxicam|15",
+  "got": "meloxicam|15",
+  "ok": true,
+  "text": "I need a refill on my meloxicam, the 15 milligram tablet.",
+  "prompt": "Patient medications: hydrochlorothiazide, atorvastatin, metformin, gabapentin, meloxicam."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "amlodipine|5",
+  "got": "amlodipine|5",
+  "ok": true,
+  "text": "I need a refill on my amlodipine, the 5 milligram tablet.",
+  "prompt": "Patient medications: atorvastatin, hydrochlorothiazide, tamsulosin, amlodipine, losartan."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "sertraline|50",
+  "got": "sertraline|50",
+  "ok": true,
+  "text": "I need a refill on my sertraline, the 50 milligram tabbers.",
+  "prompt": "Patient medications: levothyroxine, amlodipine, sertraline, gabapentin, lisinopril."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "ok": true,
+  "text": "I need a refill on my metformin, the 500 milligram tablet.",
+  "prompt": "Patient medications: metformin, levothyroxine, losartan, meloxicam, atorvastatin."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "atorvastatin|20",
+  "got": "atorvastatin|20",
+  "ok": true,
+  "text": "I need a refill on my atorvastatin, the 20 milligram tablet.",
+  "prompt": "Patient medications: atorvastatin, gabapentin, lisinopril, levothyroxine, meloxicam."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "losartan|25",
+  "got": "losartan|25",
+  "ok": true,
+  "text": "I need a refill on my losartan, the 25 milligram tablets.",
+  "prompt": "Patient medications: metformin, levothyroxine, meloxicam, omeprazole, losartan."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "omeprazole|20",
+  "got": "ownresult|20",
+  "ok": false,
+  "text": "My meter refill on my own result, the 20 milligram tablets.",
+  "prompt": "Patient medications: meloxicam, amlodipine, omeprazole, hydrochlorothiazide, lisinopril."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "omeprazole|20",
+  "got": "omeprazole|20",
+  "ok": true,
+  "text": "I need a refill on my omeprazole, the 20mg tablets.",
+  "prompt": "Patient medications: omeprazole, tamsulosin, sertraline, atorvastatin, lisinopril."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "losartan|25",
+  "got": "losartan|25",
+  "ok": true,
+  "text": "I need a refill on my losartan, the 25 milligram tablets.",
+  "prompt": "Patient medications: metformin, gabapentin, losartan, omeprazole, amlodipine."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "meloxicam|15",
+  "got": "meloxicam|15",
+  "ok": true,
+  "text": "I need a refill on my meloxicam, the 15 milligram tablets.",
+  "prompt": "Patient medications: metformin, omeprazole, hydrochlorothiazide, lisinopril, meloxicam."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "tamsulosin|4",
+  "got": "tansulosin|4",
+  "ok": false,
+  "text": "I need a refill on my tansulosin, the 4 milligram tablets.",
+  "prompt": "Patient medications: losartan, tamsulosin, amlodipine, omeprazole, levothyroxine."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "lisinopril|10",
+  "got": "lisinopril|10",
+  "ok": true,
+  "text": "I need a refill on my lisinopril, the 10 milligram tablets.",
+  "prompt": "Patient medications: omeprazole, hydrochlorothiazide, meloxicam, amlodipine, lisinopril."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "atorvastatin|20",
+  "got": "atorvastatin|20",
+  "ok": true,
+  "text": "I need a refill on my atorvastatin, the 20mg tablets.",
+  "prompt": "Patient medications: sertraline, atorvastatin, omeprazole, levothyroxine, tamsulosin."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "levothyroxine|50",
+  "got": "levothyroxine|50",
+  "ok": true,
+  "text": "I need a refill on my levothyroxine, the 50 milligram tablets.",
+  "prompt": "Patient medications: hydrochlorothiazide, meloxicam, levothyroxine, tamsulosin, lisinopril."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "hydrochlorothiazide|25",
+  "got": "hydrochlorothiazide|25",
+  "ok": true,
+  "text": "I need a refill on my hydrochlorothiazide, the 25 milligram tablets.",
+  "prompt": "Patient medications: amlodipine, hydrochlorothiazide, losartan, levothyroxine, omeprazole."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "sertraline|50",
+  "got": "sertraline|50",
+  "ok": true,
+  "text": "I need a refill on my sertraline, the 50 milligram tablets.",
+  "prompt": "Patient medications: tamsulosin, sertraline, hydrochlorothiazide, amlodipine, gabapentin."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "amlodipine|5",
+  "got": "amlodipine|5",
+  "ok": true,
+  "text": "I need a refill on my amlodipine, the 5 milligram tablets.",
+  "prompt": "Patient medications: sertraline, gabapentin, amlodipine, meloxicam, losartan."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "gabapentin|300",
+  "got": "gabapentin|300",
+  "ok": true,
+  "text": "I need a refill on my gabapentin, the 300 milligram tablets.",
+  "prompt": "Patient medications: atorvastatin, amlodipine, meloxicam, omeprazole, gabapentin."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "ok": true,
+  "text": "I need a refill on my metformin, the 500 milligram tablets.",
+  "prompt": "Patient medications: gabapentin, metformin, levothyroxine, atorvastatin, losartan."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "tamsulosin|4",
+  "got": "tamsulosin|4",
+  "ok": true,
+  "text": "I need a refill on my tamsulosin, the 4 milligram tablets.",
+  "prompt": "Patient medications: tamsulosin, gabapentin, hydrochlorothiazide, lisinopril, sertraline."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "gabapentin|300",
+  "got": "gabepentin|300",
+  "ok": false,
+  "text": "I need a refill on my gabepentin, the 300mg tablets.",
+  "prompt": "Patient medications: levothyroxine, tamsulosin, gabapentin, sertraline, omeprazole."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "amlodipine|5",
+  "got": "amlodipine|5",
+  "ok": true,
+  "text": "I need a refill on my amlodipine, the 5 milligram tablets.",
+  "prompt": "Patient medications: amlodipine, gabapentin, levothyroxine, atorvastatin, lisinopril."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "ok": true,
+  "text": "I need a refill on my metformin, the 500mg tablets.",
+  "prompt": "Patient medications: atorvastatin, levothyroxine, gabapentin, lisinopril, metformin."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "hydrochlorothiazide|25",
+  "got": "hydrochlorothiazide|25",
+  "ok": true,
+  "text": "I need a refill on my hydrochlorothiazide, the 25 milligram tablets.",
+  "prompt": "Patient medications: tamsulosin, levothyroxine, sertraline, gabapentin, hydrochlorothiazide."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "meloxicam|15",
+  "got": "meloxicam|15",
+  "ok": true,
+  "text": "I need a refill on my meloxicam, the 15 milligram tablets.",
+  "prompt": "Patient medications: hydrochlorothiazide, atorvastatin, metformin, gabapentin, meloxicam."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "amlodipine|5",
+  "got": "amlodipine|5",
+  "ok": true,
+  "text": "I need a refill on my amlodipine, the 5 milligram tablets.",
+  "prompt": "Patient medications: atorvastatin, hydrochlorothiazide, tamsulosin, amlodipine, losartan."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "sertraline|50",
+  "got": "sertraline|50",
+  "ok": true,
+  "text": "I need a refill on my sertraline, the 50 milligram tablets.",
+  "prompt": "Patient medications: levothyroxine, amlodipine, sertraline, gabapentin, lisinopril."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "ok": true,
+  "text": "I need a refill on my metformin, the 500 milligram tablets.",
+  "prompt": "Patient medications: metformin, levothyroxine, losartan, meloxicam, atorvastatin."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "atorvastatin|20",
+  "got": "atorvastatin|20",
+  "ok": true,
+  "text": "I need a refill on my atorvastatin, the 20 milligram tablets.",
+  "prompt": "Patient medications: atorvastatin, gabapentin, lisinopril, levothyroxine, meloxicam."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "losartan|25",
+  "got": "losartan|25",
+  "ok": true,
+  "text": "I need a refill on my losartan, the 25 milligram tablets.",
+  "prompt": "Patient medications: metformin, levothyroxine, meloxicam, omeprazole, losartan."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "omeprazole|20",
+  "got": "ownprasole|20",
+  "ok": false,
+  "text": "I need a refill on my own prasole, the 20 milligram tablets.",
+  "prompt": "Patient medications: meloxicam, amlodipine, omeprazole, hydrochlorothiazide, lisinopril."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "omeprazole|20",
+  "got": "omeprazole|20",
+  "ok": true,
+  "text": "I need a refill on my omeprazole, the 20 milligram tablets.",
+  "prompt": "Patient medications: omeprazole, tamsulosin, sertraline, atorvastatin, lisinopril."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "losartan|25",
+  "got": "losartan|25",
+  "ok": true,
+  "text": "I need a refill on my losartan, the 25 milligram tablets.",
+  "prompt": "Patient medications: metformin, gabapentin, losartan, omeprazole, amlodipine."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "meloxicam|15",
+  "got": "meloxicam|15",
+  "ok": true,
+  "text": "I need a refill on my meloxicam, the 15 milligram tablets.",
+  "prompt": "Patient medications: metformin, omeprazole, hydrochlorothiazide, lisinopril, meloxicam."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "tamsulosin|4",
+  "got": "tansulosin|4",
+  "ok": false,
+  "text": "I need a refill on my tansulosin, the 4 milligram tablets.",
+  "prompt": "Patient medications: losartan, tamsulosin, amlodipine, omeprazole, levothyroxine."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "lisinopril|10",
+  "got": "lisinopril|10",
+  "ok": true,
+  "text": "I need a refill on my lisinopril, the 10 milligram tablets.",
+  "prompt": "Patient medications: omeprazole, hydrochlorothiazide, meloxicam, amlodipine, lisinopril."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "atorvastatin|20",
+  "got": "atorvastatin|20",
+  "ok": true,
+  "text": "I need to refill on my atorvastatin the 20 milligram tablets.",
+  "prompt": "Patient medications: sertraline, atorvastatin, omeprazole, levothyroxine, tamsulosin."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "levothyroxine|50",
+  "got": "levothyroxine|50",
+  "ok": true,
+  "text": "I need a refill on my levothyroxine, the 50 milligram tablets.",
+  "prompt": "Patient medications: hydrochlorothiazide, meloxicam, levothyroxine, tamsulosin, lisinopril."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "hydrochlorothiazide|25",
+  "got": "hydrochlorothiazide|25",
+  "ok": true,
+  "text": "I need a refill on my hydrochlorothiazide, the 25 milligram tablets.",
+  "prompt": "Patient medications: amlodipine, hydrochlorothiazide, losartan, levothyroxine, omeprazole."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "sertraline|50",
+  "got": "sertraline|50",
+  "ok": true,
+  "text": "I need a refill on my sertraline, the 50 milligram tablets.",
+  "prompt": "Patient medications: tamsulosin, sertraline, hydrochlorothiazide, amlodipine, gabapentin."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "amlodipine|5",
+  "got": "amlidipine|5",
+  "ok": false,
+  "text": "I need a refill on my amlidipine, the 5 milligram tablets.",
+  "prompt": "Patient medications: sertraline, gabapentin, amlodipine, meloxicam, losartan."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "gabapentin|300",
+  "got": "gabapentin|300",
+  "ok": true,
+  "text": "I need a refill on my gabapentin, the 300 milligram tablets.",
+  "prompt": "Patient medications: atorvastatin, amlodipine, meloxicam, omeprazole, gabapentin."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "ok": true,
+  "text": "I need a refill on my metformin, the 500 milligram tablets.",
+  "prompt": "Patient medications: gabapentin, metformin, levothyroxine, atorvastatin, losartan."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "tamsulosin|4",
+  "got": "tamsulosin|4",
+  "ok": true,
+  "text": "I need a refill on my tamsulosin, the 4 milligram tablets.",
+  "prompt": "Patient medications: tamsulosin, gabapentin, hydrochlorothiazide, lisinopril, sertraline."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "gabapentin|300",
+  "got": "gabapentin|300",
+  "ok": true,
+  "text": "I need a refill on my gabapentin, the 300 milligram tablets.",
+  "prompt": "Patient medications: levothyroxine, tamsulosin, gabapentin, sertraline, omeprazole."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "amlodipine|5",
+  "got": "amlodipine|5",
+  "ok": true,
+  "text": "I need a refill on my amlodipine, the 5 milligram tablets.",
+  "prompt": "Patient medications: amlodipine, gabapentin, levothyroxine, atorvastatin, lisinopril."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "ok": true,
+  "text": "I need a refill on my metformin, the 500mg tablets.",
+  "prompt": "Patient medications: atorvastatin, levothyroxine, gabapentin, lisinopril, metformin."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "hydrochlorothiazide|25",
+  "got": "hydrochlorothiazide|25",
+  "ok": true,
+  "text": "I need a refill on my hydrochlorothiazide, the 25 milligram tablets.",
+  "prompt": "Patient medications: tamsulosin, levothyroxine, sertraline, gabapentin, hydrochlorothiazide."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "meloxicam|15",
+  "got": "meloxicam|15",
+  "ok": true,
+  "text": "I need to refill on my meloxicam the 15 milligram tablets.",
+  "prompt": "Patient medications: hydrochlorothiazide, atorvastatin, metformin, gabapentin, meloxicam."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "amlodipine|5",
+  "got": "amlodipine|5",
+  "ok": true,
+  "text": "I need a refill on my amlodipine, the 5 milligram tablets.",
+  "prompt": "Patient medications: atorvastatin, hydrochlorothiazide, tamsulosin, amlodipine, losartan."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "sertraline|50",
+  "got": "sertraline|50",
+  "ok": true,
+  "text": "I need a refill on my sertraline, the 50 milligram tablets.",
+  "prompt": "Patient medications: levothyroxine, amlodipine, sertraline, gabapentin, lisinopril."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "ok": true,
+  "text": "I need a refill on my metformin, the 500 milligram tablets.",
+  "prompt": "Patient medications: metformin, levothyroxine, losartan, meloxicam, atorvastatin."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "atorvastatin|20",
+  "got": "atorvastatin|20",
+  "ok": true,
+  "text": "I need a refill on my atorvastatin, the 20 milligram tablets.",
+  "prompt": "Patient medications: atorvastatin, gabapentin, lisinopril, levothyroxine, meloxicam."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "losartan|25",
+  "got": "losartan|25",
+  "ok": true,
+  "text": "I need a refill on my losartan, the 25 milligram tablets.",
+  "prompt": "Patient medications: metformin, levothyroxine, meloxicam, omeprazole, losartan."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "omeprazole|20",
+  "got": "ownprasole|20",
+  "ok": false,
+  "text": "I need a refill on my own Prasole, the 20 milligram tablets.",
+  "prompt": "Patient medications: meloxicam, amlodipine, omeprazole, hydrochlorothiazide, lisinopril."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "omeprazole|20",
+  "got": "ownforgoes|20",
+  "ok": false,
+  "text": "I need a refill on my own forgoes, the 20 milligram tablet.",
+  "prompt": "Patient medications: omeprazole, tamsulosin, sertraline, atorvastatin, lisinopril."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "losartan|25",
+  "got": "losartan|25",
+  "ok": true,
+  "text": "I need a refill on my losartan, the 25 milligram tablet.",
+  "prompt": "Patient medications: metformin, gabapentin, losartan, omeprazole, amlodipine."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "meloxicam|15",
+  "got": null,
+  "ok": false,
+  "text": "I need a refill on my meloxicam, the 15-milligram tablet.",
+  "prompt": "Patient medications: metformin, omeprazole, hydrochlorothiazide, lisinopril, meloxicam."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "tamsulosin|4",
+  "got": "cantaloucine|4",
+  "ok": false,
+  "text": "I need a refill on my cantaloucine, the 4 milligrams have less.",
+  "prompt": "Patient medications: losartan, tamsulosin, amlodipine, omeprazole, levothyroxine."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "lisinopril|10",
+  "got": "lisinopril|10",
+  "ok": true,
+  "text": "My need to refill on my lisinopril, the 10 milligrams have less.",
+  "prompt": "Patient medications: omeprazole, hydrochlorothiazide, meloxicam, amlodipine, lisinopril."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "atorvastatin|20",
+  "got": "atorvastatin|20",
+  "ok": true,
+  "text": "I need a refill on my atorvastatin, the 20 milligrams tablet.",
+  "prompt": "Patient medications: sertraline, atorvastatin, omeprazole, levothyroxine, tamsulosin."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "levothyroxine|50",
+  "got": "levothyroxine|50",
+  "ok": true,
+  "text": "I need a refill on my levothyroxine, the 50 milligrams tablet.",
+  "prompt": "Patient medications: hydrochlorothiazide, meloxicam, levothyroxine, tamsulosin, lisinopril."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "hydrochlorothiazide|25",
+  "got": "hydrochlorothiazide|25",
+  "ok": true,
+  "text": "I need a refill on my hydrochlorothiazide, the 25 milligrams tablet.",
+  "prompt": "Patient medications: amlodipine, hydrochlorothiazide, losartan, levothyroxine, omeprazole."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "sertraline|50",
+  "got": "sertraline|50",
+  "ok": true,
+  "text": "I need a refill on my sertraline, the 50 milligram tablet.",
+  "prompt": "Patient medications: tamsulosin, sertraline, hydrochlorothiazide, amlodipine, gabapentin."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "amlodipine|5",
+  "got": "amladepine|5",
+  "ok": false,
+  "text": "I need a refill on my amla depine, the 5 milligrams tablet.",
+  "prompt": "Patient medications: sertraline, gabapentin, amlodipine, meloxicam, losartan."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "gabapentin|300",
+  "got": "gabapentin|300",
+  "ok": true,
+  "text": "I need a refill on my gabapentin, the 300 milligrams tablet.",
+  "prompt": "Patient medications: atorvastatin, amlodipine, meloxicam, omeprazole, gabapentin."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "ok": true,
+  "text": "I need a refill on my metformin, the 500 milligrams tablet.",
+  "prompt": "Patient medications: gabapentin, metformin, levothyroxine, atorvastatin, losartan."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "tamsulosin|4",
+  "got": "tamsulosin|4",
+  "ok": true,
+  "text": "I need a refill on my tamsulosin, the 4 milligrams tablet.",
+  "prompt": "Patient medications: tamsulosin, gabapentin, hydrochlorothiazide, lisinopril, sertraline."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "gabapentin|300",
+  "got": "gabapentin|300",
+  "ok": true,
+  "text": "I need a refill on my gabapentin, the 300 milligrams tablet.",
+  "prompt": "Patient medications: levothyroxine, tamsulosin, gabapentin, sertraline, omeprazole."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "amlodipine|5",
+  "got": "amlodipine|5",
+  "ok": true,
+  "text": "I need a refill on my amlodipine, 5 milligram tablet.",
+  "prompt": "Patient medications: amlodipine, gabapentin, levothyroxine, atorvastatin, lisinopril."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "ok": true,
+  "text": "I need a refill on my metformin, the 500 milligrams tablet.",
+  "prompt": "Patient medications: atorvastatin, levothyroxine, gabapentin, lisinopril, metformin."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "hydrochlorothiazide|25",
+  "got": "hydrochlorothiazide|25",
+  "ok": true,
+  "text": "I need a refill on my hydrochlorothiazide, the 25 milligrams tablet.",
+  "prompt": "Patient medications: tamsulosin, levothyroxine, sertraline, gabapentin, hydrochlorothiazide."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "meloxicam|15",
+  "got": "meloxicam|15",
+  "ok": true,
+  "text": "I need a refill on my meloxicam, the 15 milligrams tablet.",
+  "prompt": "Patient medications: hydrochlorothiazide, atorvastatin, metformin, gabapentin, meloxicam."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "amlodipine|5",
+  "got": "amlodipine|5",
+  "ok": true,
+  "text": "I need a refill on my amlodipine, the 5 milligram tavern.",
+  "prompt": "Patient medications: atorvastatin, hydrochlorothiazide, tamsulosin, amlodipine, losartan."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "sertraline|50",
+  "got": "sertraline|50",
+  "ok": true,
+  "text": "I need a refill on my sertraline, the 50 milligram taverns.",
+  "prompt": "Patient medications: levothyroxine, amlodipine, sertraline, gabapentin, lisinopril."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "ok": true,
+  "text": "I need a refill on my metformin, the 500 milligram tablet.",
+  "prompt": "Patient medications: metformin, levothyroxine, losartan, meloxicam, atorvastatin."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "atorvastatin|20",
+  "got": "atorvastatin|20",
+  "ok": true,
+  "text": "I need a refill on my atorvastatin, the 20 milligram tablet.",
+  "prompt": "Patient medications: atorvastatin, gabapentin, lisinopril, levothyroxine, meloxicam."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "losartan|25",
+  "got": "losartan|25",
+  "ok": true,
+  "text": "I need a refill on my losartan, the 25 milligrams tablet.",
+  "prompt": "Patient medications: metformin, levothyroxine, meloxicam, omeprazole, losartan."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "omeprazole|20",
+  "got": "ownpresol|20",
+  "ok": false,
+  "text": "I need a refill on my own presol, the 20 milligram tablets.",
+  "prompt": "Patient medications: meloxicam, amlodipine, omeprazole, hydrochlorothiazide, lisinopril."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "omeprazole|20",
+  "got": "omeprazole|20",
+  "ok": true,
+  "text": "I need a refill on my omeprazole, the 20mg tablets.",
+  "prompt": "Patient medications: omeprazole, tamsulosin, sertraline, atorvastatin, lisinopril."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "losartan|25",
+  "got": "losartan|25",
+  "ok": true,
+  "text": "I need a refill on my losartan, the 25mg tablets.",
+  "prompt": "Patient medications: metformin, gabapentin, losartan, omeprazole, amlodipine."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "meloxicam|15",
+  "got": "meloxicam|15",
+  "ok": true,
+  "text": "I need a refill on my meloxicam, the 15mg tablets.",
+  "prompt": "Patient medications: metformin, omeprazole, hydrochlorothiazide, lisinopril, meloxicam."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "tamsulosin|4",
+  "got": "tamsulosin|4",
+  "ok": true,
+  "text": "I need a refill on my tamsulosin, the 4mg tablets.",
+  "prompt": "Patient medications: losartan, tamsulosin, amlodipine, omeprazole, levothyroxine."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "lisinopril|10",
+  "got": "lisinopril|10",
+  "ok": true,
+  "text": "I need a refill on my lisinopril, the 10mg tablets.",
+  "prompt": "Patient medications: omeprazole, hydrochlorothiazide, meloxicam, amlodipine, lisinopril."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "atorvastatin|20",
+  "got": "atorvastatin|20",
+  "ok": true,
+  "text": "I need a refill on my atorvastatin, the 20mg tablets.",
+  "prompt": "Patient medications: sertraline, atorvastatin, omeprazole, levothyroxine, tamsulosin."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "levothyroxine|50",
+  "got": "levothyroxine|50",
+  "ok": true,
+  "text": "I need a refill on my levothyroxine, the 50mg tablets.",
+  "prompt": "Patient medications: hydrochlorothiazide, meloxicam, levothyroxine, tamsulosin, lisinopril."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "hydrochlorothiazide|25",
+  "got": "hydrochlorothiazide|25",
+  "ok": true,
+  "text": "I need a refill on my hydrochlorothiazide, the 25 milligram tablets.",
+  "prompt": "Patient medications: amlodipine, hydrochlorothiazide, losartan, levothyroxine, omeprazole."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "sertraline|50",
+  "got": "sertraline|50",
+  "ok": true,
+  "text": "I need a refill on my sertraline, the 50mg tablets.",
+  "prompt": "Patient medications: tamsulosin, sertraline, hydrochlorothiazide, amlodipine, gabapentin."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "amlodipine|5",
+  "got": "amlodipine|5",
+  "ok": true,
+  "text": "I need a refill on my amlodipine, the 5mg tablets.",
+  "prompt": "Patient medications: sertraline, gabapentin, amlodipine, meloxicam, losartan."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "gabapentin|300",
+  "got": "gabapentin|300",
+  "ok": true,
+  "text": "I need a refill on my gabapentin, the 300mg tablets.",
+  "prompt": "Patient medications: atorvastatin, amlodipine, meloxicam, omeprazole, gabapentin."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "ok": true,
+  "text": "I need a refill on my metformin, the 500mg tablets.",
+  "prompt": "Patient medications: gabapentin, metformin, levothyroxine, atorvastatin, losartan."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "tamsulosin|4",
+  "got": "tamsulosin|4",
+  "ok": true,
+  "text": "I need a refill on my tamsulosin, the 4mg tablets.",
+  "prompt": "Patient medications: tamsulosin, gabapentin, hydrochlorothiazide, lisinopril, sertraline."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "gabapentin|300",
+  "got": "gabapentin|300",
+  "ok": true,
+  "text": "I need a refill on my gabapentin, the 300mg tablets.",
+  "prompt": "Patient medications: levothyroxine, tamsulosin, gabapentin, sertraline, omeprazole."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "amlodipine|5",
+  "got": "amlodipine|5",
+  "ok": true,
+  "text": "I need a refill on my amlodipine, the 5mg tablets.",
+  "prompt": "Patient medications: amlodipine, gabapentin, levothyroxine, atorvastatin, lisinopril."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "ok": true,
+  "text": "I need a refill on my metformin, the 500mg tablets.",
+  "prompt": "Patient medications: atorvastatin, levothyroxine, gabapentin, lisinopril, metformin."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "hydrochlorothiazide|25",
+  "got": "hydrochlorothiazide|25",
+  "ok": true,
+  "text": "I need a refill on my hydrochlorothiazide, the 25mg tablets.",
+  "prompt": "Patient medications: tamsulosin, levothyroxine, sertraline, gabapentin, hydrochlorothiazide."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "meloxicam|15",
+  "got": "meloxicam|15",
+  "ok": true,
+  "text": "I need a refill on my meloxicam, the 15mg tablets.",
+  "prompt": "Patient medications: hydrochlorothiazide, atorvastatin, metformin, gabapentin, meloxicam."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "amlodipine|5",
+  "got": "amlodipine|5",
+  "ok": true,
+  "text": "I need a refill on my amlodipine, the 5 milligram tablets.",
+  "prompt": "Patient medications: atorvastatin, hydrochlorothiazide, tamsulosin, amlodipine, losartan."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "sertraline|50",
+  "got": "sertraline|50",
+  "ok": true,
+  "text": "I need a refill on my sertraline, the 50 milligram tablets.",
+  "prompt": "Patient medications: levothyroxine, amlodipine, sertraline, gabapentin, lisinopril."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "ok": true,
+  "text": "I need a refill on my metformin, the 500mg tablets.",
+  "prompt": "Patient medications: metformin, levothyroxine, losartan, meloxicam, atorvastatin."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "atorvastatin|20",
+  "got": "atorvastatin|20",
+  "ok": true,
+  "text": "I need a refill on my atorvastatin, the 20mg tablets.",
+  "prompt": "Patient medications: atorvastatin, gabapentin, lisinopril, levothyroxine, meloxicam."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "losartan|25",
+  "got": "losartan|25",
+  "ok": true,
+  "text": "I need a refill on my losartan, the 25 milligram tablets.",
+  "prompt": "Patient medications: metformin, levothyroxine, meloxicam, omeprazole, losartan."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "omeprazole|20",
+  "got": "ownprasole|20",
+  "ok": false,
+  "text": "I need a refill on my own prasole, the 20mg tablets.",
+  "prompt": "Patient medications: meloxicam, amlodipine, omeprazole, hydrochlorothiazide, lisinopril."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "omeprazole|20",
+  "got": "omeprazole|20",
+  "ok": true,
+  "text": "I need a refill on my omeprazole, the 20 milligram tablets.",
+  "prompt": "Patient medications: omeprazole, tamsulosin, sertraline, atorvastatin, lisinopril."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "losartan|25",
+  "got": "losartan|25",
+  "ok": true,
+  "text": "I need a refill on my losartan, the 25 milligram tablets.",
+  "prompt": "Patient medications: metformin, gabapentin, losartan, omeprazole, amlodipine."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "meloxicam|15",
+  "got": "meloxicam|15",
+  "ok": true,
+  "text": "I need a refill on my meloxicam, the 15 milligram tablets.",
+  "prompt": "Patient medications: metformin, omeprazole, hydrochlorothiazide, lisinopril, meloxicam."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "tamsulosin|4",
+  "got": null,
+  "ok": false,
+  "text": "I need a refill on my tamsulosin, the four milligram tablets.",
+  "prompt": "Patient medications: losartan, tamsulosin, amlodipine, omeprazole, levothyroxine."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "lisinopril|10",
+  "got": "lisinopril|10",
+  "ok": true,
+  "text": "I need a refill on my lisinopril, the 10 milligram tablets.",
+  "prompt": "Patient medications: omeprazole, hydrochlorothiazide, meloxicam, amlodipine, lisinopril."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "atorvastatin|20",
+  "got": "atorvastatin|20",
+  "ok": true,
+  "text": "I need a refill on my atorvastatin, the 20 milligram tablets.",
+  "prompt": "Patient medications: sertraline, atorvastatin, omeprazole, levothyroxine, tamsulosin."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "levothyroxine|50",
+  "got": "levothyroxine|50",
+  "ok": true,
+  "text": "I need a refill on my levothyroxine, the 50 milligram tablets.",
+  "prompt": "Patient medications: hydrochlorothiazide, meloxicam, levothyroxine, tamsulosin, lisinopril."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "hydrochlorothiazide|25",
+  "got": "hydrochlorothiazide|25",
+  "ok": true,
+  "text": "I need a refill on my hydrochlorothiazide, the 25 milligram tablets.",
+  "prompt": "Patient medications: amlodipine, hydrochlorothiazide, losartan, levothyroxine, omeprazole."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "sertraline|50",
+  "got": "sertraline|50",
+  "ok": true,
+  "text": "I need a refill on my sertraline, the 50 milligram tablets.",
+  "prompt": "Patient medications: tamsulosin, sertraline, hydrochlorothiazide, amlodipine, gabapentin."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "amlodipine|5",
+  "got": "amlodipine|5",
+  "ok": true,
+  "text": "I need a refill on my amlodipine, the 5 milligram tablets.",
+  "prompt": "Patient medications: sertraline, gabapentin, amlodipine, meloxicam, losartan."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "gabapentin|300",
+  "got": "gabapentin|300",
+  "ok": true,
+  "text": "I need a refill on my gabapentin, the 300 milligram tablets.",
+  "prompt": "Patient medications: atorvastatin, amlodipine, meloxicam, omeprazole, gabapentin."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "ok": true,
+  "text": "I need a refill on my metformin, the 500 milligram tablets.",
+  "prompt": "Patient medications: gabapentin, metformin, levothyroxine, atorvastatin, losartan."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "tamsulosin|4",
+  "got": "tamsulosin|4",
+  "ok": true,
+  "text": "I need a refill on my tamsulosin, the 4mg tablets.",
+  "prompt": "Patient medications: tamsulosin, gabapentin, hydrochlorothiazide, lisinopril, sertraline."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "gabapentin|300",
+  "got": "gabapentin|300",
+  "ok": true,
+  "text": "I need a refill on my gabapentin, the 300 milligram tablets.",
+  "prompt": "Patient medications: levothyroxine, tamsulosin, gabapentin, sertraline, omeprazole."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "amlodipine|5",
+  "got": "amlodipine|5",
+  "ok": true,
+  "text": "I need a refill on my amlodipine, the 5 milligram tablets.",
+  "prompt": "Patient medications: amlodipine, gabapentin, levothyroxine, atorvastatin, lisinopril."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "ok": true,
+  "text": "I need a refill on my metformin, the 500 milligram tablets.",
+  "prompt": "Patient medications: atorvastatin, levothyroxine, gabapentin, lisinopril, metformin."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "hydrochlorothiazide|25",
+  "got": "hydrochlorothiazide|25",
+  "ok": true,
+  "text": "I need to refill on my hydrochlorothiazide, the 25 milligram tablets.",
+  "prompt": "Patient medications: tamsulosin, levothyroxine, sertraline, gabapentin, hydrochlorothiazide."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "meloxicam|15",
+  "got": "meloxicam|15",
+  "ok": true,
+  "text": "I need a refill on my meloxicam, the 15 milligram tablets.",
+  "prompt": "Patient medications: hydrochlorothiazide, atorvastatin, metformin, gabapentin, meloxicam."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "amlodipine|5",
+  "got": "amlodipine|5",
+  "ok": true,
+  "text": "I need a refill on my amlodipine, the 5 milligram tablets.",
+  "prompt": "Patient medications: atorvastatin, hydrochlorothiazide, tamsulosin, amlodipine, losartan."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "sertraline|50",
+  "got": "sertraline|50",
+  "ok": true,
+  "text": "I need a refill on my sertraline, the 50 milligram tablets.",
+  "prompt": "Patient medications: levothyroxine, amlodipine, sertraline, gabapentin, lisinopril."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "ok": true,
+  "text": "I need a refill on my metformin, the 500 milligram tablets.",
+  "prompt": "Patient medications: metformin, levothyroxine, losartan, meloxicam, atorvastatin."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "atorvastatin|20",
+  "got": "atorvastatin|20",
+  "ok": true,
+  "text": "I need a refill on my atorvastatin, the 20 milligram tablets.",
+  "prompt": "Patient medications: atorvastatin, gabapentin, lisinopril, levothyroxine, meloxicam."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "losartan|25",
+  "got": "losartan|25",
+  "ok": true,
+  "text": "I need a refill on my losartan, the 25 milligram tablets.",
+  "prompt": "Patient medications: metformin, levothyroxine, meloxicam, omeprazole, losartan."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "omeprazole|20",
+  "got": "ownprasole|20",
+  "ok": false,
+  "text": "I need a refill on my own prasole, the 20 milligram tablets.",
+  "prompt": "Patient medications: meloxicam, amlodipine, omeprazole, hydrochlorothiazide, lisinopril."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "omeprazole|20",
+  "got": "omeprazole|20",
+  "ok": true,
+  "text": "I need a refill on my omeprazole, the 20 milligram tablet.",
+  "prompt": "Patient medications: omeprazole, tamsulosin, sertraline, atorvastatin, lisinopril."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "losartan|25",
+  "got": "losartan|25",
+  "ok": true,
+  "text": "I need a refill on my losartan, the 25 milligram habilis.",
+  "prompt": "Patient medications: metformin, gabapentin, losartan, omeprazole, amlodipine."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "meloxicam|15",
+  "got": "meloxicam|15",
+  "ok": true,
+  "text": "I need a refill on my meloxicam, the 15 milligram tablet.",
+  "prompt": "Patient medications: metformin, omeprazole, hydrochlorothiazide, lisinopril, meloxicam."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "tamsulosin|4",
+  "got": "tamsulosin|4",
+  "ok": true,
+  "text": "I need a refill on my tamsulosin, the 4 milligram tablet.",
+  "prompt": "Patient medications: losartan, tamsulosin, amlodipine, omeprazole, levothyroxine."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "lisinopril|10",
+  "got": "lisinopril|10",
+  "ok": true,
+  "text": "I need a refill on my lisinopril, the 10mg tablet.",
+  "prompt": "Patient medications: omeprazole, hydrochlorothiazide, meloxicam, amlodipine, lisinopril."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "atorvastatin|20",
+  "got": "atorvastatin|20",
+  "ok": true,
+  "text": "I need a refill on my atorvastatin, the 20 milligram tablet.",
+  "prompt": "Patient medications: sertraline, atorvastatin, omeprazole, levothyroxine, tamsulosin."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "levothyroxine|50",
+  "got": "levothyroxine|50",
+  "ok": true,
+  "text": "I need a refill on my levothyroxine, the 50 milligram tablet.",
+  "prompt": "Patient medications: hydrochlorothiazide, meloxicam, levothyroxine, tamsulosin, lisinopril."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "hydrochlorothiazide|25",
+  "got": "hydrochlorothiazide|25",
+  "ok": true,
+  "text": "I need a refill on my hydrochlorothiazide, the 25 milligram tablet.",
+  "prompt": "Patient medications: amlodipine, hydrochlorothiazide, losartan, levothyroxine, omeprazole."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "sertraline|50",
+  "got": "sertraline|50",
+  "ok": true,
+  "text": "I need a refill on my sertraline, the 50 milligram tablet.",
+  "prompt": "Patient medications: tamsulosin, sertraline, hydrochlorothiazide, amlodipine, gabapentin."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "amlodipine|5",
+  "got": "amlodipine|5",
+  "ok": true,
+  "text": "I need a refill on my amlodipine, the 5 milligram tablet.",
+  "prompt": "Patient medications: sertraline, gabapentin, amlodipine, meloxicam, losartan."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "gabapentin|300",
+  "got": "gabapentin|300",
+  "ok": true,
+  "text": "I need a refill on my gabapentin, the 300 milligram tablet.",
+  "prompt": "Patient medications: atorvastatin, amlodipine, meloxicam, omeprazole, gabapentin."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "ok": true,
+  "text": "I need a refill on my metformin, the 500 milligram tablet.",
+  "prompt": "Patient medications: gabapentin, metformin, levothyroxine, atorvastatin, losartan."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "tamsulosin|4",
+  "got": "tamsulosin|4",
+  "ok": true,
+  "text": "I need a refill on my tamsulosin, the 4mg tablet.",
+  "prompt": "Patient medications: tamsulosin, gabapentin, hydrochlorothiazide, lisinopril, sertraline."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "gabapentin|300",
+  "got": "gabapentin|300",
+  "ok": true,
+  "text": "I need a refill on my gabapentin, the 300 milligram tablet.",
+  "prompt": "Patient medications: levothyroxine, tamsulosin, gabapentin, sertraline, omeprazole."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "amlodipine|5",
+  "got": null,
+  "ok": false,
+  "text": "I need a refill on my amlodipine, a 5mg tablet.",
+  "prompt": "Patient medications: amlodipine, gabapentin, levothyroxine, atorvastatin, lisinopril."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "metformin|500",
+  "got": null,
+  "ok": false,
+  "text": "I need a refill on my metformin, with 500mg tablet.",
+  "prompt": "Patient medications: atorvastatin, levothyroxine, gabapentin, lisinopril, metformin."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "hydrochlorothiazide|25",
+  "got": "hydrochlorothiazide|25",
+  "ok": true,
+  "text": "I need a refill on my hydrochlorothiazide, the 25 milligram tablet.",
+  "prompt": "Patient medications: tamsulosin, levothyroxine, sertraline, gabapentin, hydrochlorothiazide."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "meloxicam|15",
+  "got": "meloxicam|15",
+  "ok": true,
+  "text": "I need a refill on my meloxicam, the 15mg tablet.",
+  "prompt": "Patient medications: hydrochlorothiazide, atorvastatin, metformin, gabapentin, meloxicam."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "amlodipine|5",
+  "got": "amlodipine|5",
+  "ok": true,
+  "text": "I need a refill on my amlodipine, the 5 milligram tablet.",
+  "prompt": "Patient medications: atorvastatin, hydrochlorothiazide, tamsulosin, amlodipine, losartan."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "sertraline|50",
+  "got": "sertraline|50",
+  "ok": true,
+  "text": "I need a refill on my sertraline, the 50 milligram tablets.",
+  "prompt": "Patient medications: levothyroxine, amlodipine, sertraline, gabapentin, lisinopril."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "ok": true,
+  "text": "I need a refill on my metformin, the 500 milligram tablet.",
+  "prompt": "Patient medications: metformin, levothyroxine, losartan, meloxicam, atorvastatin."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "atorvastatin|20",
+  "got": "atorvastatin|20",
+  "ok": true,
+  "text": "I need a refill on my atorvastatin, the 20 milligram tablets.",
+  "prompt": "Patient medications: atorvastatin, gabapentin, lisinopril, levothyroxine, meloxicam."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "losartan|25",
+  "got": "losartan|25",
+  "ok": true,
+  "text": "I need a refill on my losartan, the 25 milligram tablet.",
+  "prompt": "Patient medications: metformin, levothyroxine, meloxicam, omeprazole, losartan."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "omeprazole|20",
+  "got": "ownpresol|20",
+  "ok": false,
+  "text": "I need a refill on my own presol, the 20 milligram tablets.",
+  "prompt": "Patient medications: meloxicam, amlodipine, omeprazole, hydrochlorothiazide, lisinopril."
+ }
+]

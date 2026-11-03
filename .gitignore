@@ -1,0 +1,4 @@
+clips/
+__pycache__/
+.pytest_cache/
+score.log

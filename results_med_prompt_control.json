@@ -1,0 +1,1946 @@
+[
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "omeprazole|20",
+  "got": "ownpuzzle|20",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my own puzzle, the 20 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "losartan|25",
+  "got": "lawsergeant|25",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my law sergeant, the 25 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "meloxicam|15",
+  "got": "milexicam|15",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my milexicam, the 15 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "tamsulosin|4",
+  "got": "tansalosin|4",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Tansalosin, the 4 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "lisinopril|10",
+  "got": "lysnoperal|10",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my lysnoperal, the 10 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "atorvastatin|20",
+  "got": "atorofestitin|20",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need to refill on my ator of estitin, the 20 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "levothyroxine|50",
+  "got": "levithyricsign|50",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my levithyric sign, the 50 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "hydrochlorothiazide|25",
+  "got": "hydrochlorothaazide|25",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my hydrochlorothaazide, the 25 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "sertraline|50",
+  "got": "serterline|50",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my serter line, the 50 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "amlodipine|5",
+  "got": "amylidopine|5",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my amylidopine, the 5 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "gabapentin|300",
+  "got": "gabipenton|300",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Gabi Penton, the 300 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my metformin, the 500 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "tamsulosin|4",
+  "got": "tamcelosin|4",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my tamcelosin, the 4 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "gabapentin|300",
+  "got": "gabbypenton|300",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Gabby Penton, the 300 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "amlodipine|5",
+  "got": "amylidopine|5",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my amylidopine, the 5 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Metformin, the 500 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "hydrochlorothiazide|25",
+  "got": "hydrochlorothiaizide|25",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my hydrochlorothiaizide, the 25 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "meloxicam|15",
+  "got": "miliccicm|15",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my miliccicm, the 15 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "amlodipine|5",
+  "got": "amidopine|5",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my amidopine, the 5 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "sertraline|50",
+  "got": "sertraline|50",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my sertraline, the 50 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my metformin, the 500 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "atorvastatin|20",
+  "got": "atovastatin|20",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my atovastatin, the 20 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "losartan|25",
+  "got": "lossartin|25",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my loss artin, the 25 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "wide",
+  "answer": "omeprazole|20",
+  "got": "ownproposal|20",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my own proposal, the 20mg tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "omeprazole|20",
+  "got": "ownpresoul|20",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my own presoul, the 20 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "losartan|25",
+  "got": "lawsartin|25",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my law-sartin, the 25 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "meloxicam|15",
+  "got": "myellexicum|15",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my myellexicum, the 15 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "tamsulosin|4",
+  "got": "tancelossin|4",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my tancelossin, the 4 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "lisinopril|10",
+  "got": "lysinopril|10",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my lysinopril, the 10 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "atorvastatin|20",
+  "got": "atorevestitin|20",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need to refill on my atore vestitin the 20 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "levothyroxine|50",
+  "got": "leathersearicsign|50",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my leather-searic sign, the 50 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "hydrochlorothiazide|25",
+  "got": "hydrochlorosaazide|25",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my hydrochlorosaazide, the 25 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "sertraline|50",
+  "got": "thirdline|50",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my third line, the 50 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "amlodipine|5",
+  "got": "amylidopine|5",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my amylidopine, the 5 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "gabapentin|300",
+  "got": "gabipenton|300",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Gabi Penton, the 300 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my metformin, the 500 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "tamsulosin|4",
+  "got": "tamsilosin|4",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Tamsilosin, the 4 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "gabapentin|300",
+  "got": "gabbypenton|300",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Gabby Penton, the 300 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "amlodipine|5",
+  "got": "amylidopine|5",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my amylidopine, the 5 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my metformin, the 500 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "hydrochlorothiazide|25",
+  "got": "hydrochlorothiaeside|25",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my hydrochlorothiaeside, the 25 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "meloxicam|15",
+  "got": "milicsickum|15",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my milic sickum, the 15 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "amlodipine|5",
+  "got": "amlerdepine|5",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my amler-depine, the 5 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "sertraline|50",
+  "got": "sertraline|50",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my sertraline, the 50 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my metformin, the 500 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "atorvastatin|20",
+  "got": "atovastatin|20",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my atovastatin, the 20 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "losartan|25",
+  "got": null,
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my loss artin' the 25 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "phone",
+  "answer": "omeprazole|20",
+  "got": "ownprasole|20",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my own prasole, the 20 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "omeprazole|20",
+  "got": "ownforhome|20",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my own for home, the 20 milligram tablet."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "losartan|25",
+  "got": "lostheartened|25",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my lost heartened, the 25 milligram tablet."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "meloxicam|15",
+  "got": null,
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my nalectic amp, a 15 milligram tablet."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "tamsulosin|4",
+  "got": null,
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my cancer law system, the four milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "lisinopril|10",
+  "got": null,
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Niphenoprool, the 10-milligrams hablin'."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "atorvastatin|20",
+  "got": "hydroabestitin|20",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my hydroabestitin, the 20 milligram tablet."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "levothyroxine|50",
+  "got": "leatherherexsign|50",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my leather herex sign, the 50 milligrams tablet."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "hydrochlorothiazide|25",
+  "got": "hydrochloroseazide|25",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my hydrochlorose azide, the 25 milligrams tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "sertraline|50",
+  "got": "thirdline|15",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my third line, the 15 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "amlodipine|5",
+  "got": "amylodepinefor|5",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my amylodepine for 5 milligrams tablet."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "gabapentin|300",
+  "got": "gabipenton|300",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Gabi Penton, the 300 milligrams tablet."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my metformin, the 500 milligrams tablet."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "tamsulosin|4",
+  "got": "tansilox|4",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Tansilox 4 milligrams tablet."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "gabapentin|300",
+  "got": "gabbypentus|300",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Gabby Pentus, the 300 milligrams tablet."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "amlodipine|5",
+  "got": null,
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my handlet of time. 5 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "metformin|500",
+  "got": null,
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need to refill on my metformin. It's 500 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "hydrochlorothiazide|25",
+  "got": "hydrochlorousgaseyes|25",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my hydrochlorous gaseyes, the 25 milligrams tablet."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "meloxicam|15",
+  "got": "melonsickens|15",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my melon sickens, the 15 milligram tablet."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "amlodipine|5",
+  "got": "amylodenine|5",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my amylodenine, the 5 milligram tablet."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "sertraline|50",
+  "got": "certaineye|50",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my certain eye, the 50 milligram tabbers."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my metformin, the 500 milligram tablet."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "atorvastatin|20",
+  "got": "atovastatine|20",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my atovastatine, the 20 milligram tablet."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "losartan|25",
+  "got": "lostheartof|25",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my lost heart of the 25 milligram tablets."
+ },
+ {
+  "model": "tiny.en",
+  "cond": "noisy",
+  "answer": "omeprazole|20",
+  "got": "ownresult|20",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "My needa refill on my own result, the 20 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "omeprazole|20",
+  "got": "ownprasole|20",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my own Prasole, the 20 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "losartan|25",
+  "got": "lawsartan|25",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my law sartan, the 25 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "meloxicam|15",
+  "got": "melexicam|15",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my melexicam, the 15 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "tamsulosin|4",
+  "got": "tansalossan|4",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Tansalossan, the 4 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "lisinopril|10",
+  "got": "listenuproll|10",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my listen-up roll, the 10mg tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "atorvastatin|20",
+  "got": "atorvastatin|20",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my atorvastatin, the 20mg tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "levothyroxine|50",
+  "got": "levethuricsign|50",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my levethuric sign, the 50 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "hydrochlorothiazide|25",
+  "got": "hydrochlorothaseid|25",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my hydrochlorothaseid, the 25 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "sertraline|50",
+  "got": "sardraline|50",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my sardraline, the 50 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "amlodipine|5",
+  "got": "amladepine|5",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my amla-depine, the 5 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "gabapentin|300",
+  "got": "gabbypenton|300",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Gabby Penton, the 300 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "metformin|500",
+  "got": null,
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Met4Min, the 500 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "tamsulosin|4",
+  "got": "tamsalawson|4",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Tamsa Lawson, the 4 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "gabapentin|300",
+  "got": "gabbypenton|300",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Gabby Penton, the 300 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "amlodipine|5",
+  "got": "amlitapine|5",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my amlitapine, the 5mg tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my metformin, the 500mg tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "hydrochlorothiazide|25",
+  "got": "hydrochlorothiazide|25",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my hydrochlorothiazide, the 25 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "meloxicam|15",
+  "got": "melixicam|15",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Melixicam, the 15 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "amlodipine|5",
+  "got": "amidepine|5",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my amidepine, the 5 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "sertraline|50",
+  "got": "sertraline|50",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my sertraline, the 50 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my metformin, the 500 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "atorvastatin|20",
+  "got": "atovastatin|20",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Atovastatin, the 20 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "losartan|25",
+  "got": "losartan|25",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my losartan, the 25 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "wide",
+  "answer": "omeprazole|20",
+  "got": "ownprasole|20",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my own Prasole, the 20 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "omeprazole|20",
+  "got": "ownprasole|20",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my own Prasole, the 20 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "losartan|25",
+  "got": "lossartan|25",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my lossartan, the 25 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "meloxicam|15",
+  "got": "melexicam|15",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my melexicam, the 15 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "tamsulosin|4",
+  "got": "tansilosin|4",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Tansilosin, the 4 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "lisinopril|10",
+  "got": "listenuprule|10",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my listen-up rule, the 10 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "atorvastatin|20",
+  "got": "atorvastatin|20",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need to refill on my atorvastatin, the 20 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "levothyroxine|50",
+  "got": "leatherfiercsign|50",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my leather fierc sign, the 50 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "hydrochlorothiazide|25",
+  "got": "hydrochlorothaseid|25",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my hydrochlorothaseid, the 25 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "sertraline|50",
+  "got": "sertraline|50",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my sertraline, the 50 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "amlodipine|5",
+  "got": "amladepine|5",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my amla-depine, the 5 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "gabapentin|300",
+  "got": "gabbypenton|300",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Gabby Penton, the 300 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "metformin|500",
+  "got": null,
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Met4Min, the 500 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "tamsulosin|4",
+  "got": "tamsalocin|4",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Tamsalocin, the 4 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "gabapentin|300",
+  "got": "gabbypenton|300",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Gabby Penton, the 300 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "amlodipine|5",
+  "got": "amlitapine|5",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my amlitapine, the 5 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my metformin, the 500mg tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "hydrochlorothiazide|25",
+  "got": "hydrochlorothiazide|25",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my hydrochlorothiazide, the 25 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "meloxicam|15",
+  "got": "meloxicam|15",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need to refill on my Meloxicam, the 15 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "amlodipine|5",
+  "got": "amidepine|5",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my amidepine, the 5 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "sertraline|50",
+  "got": "sertraline|50",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my sertraline, the 50 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my metformin, the 500 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "atorvastatin|20",
+  "got": "atovastatin|20",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Atovastatin, the 20 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "losartan|25",
+  "got": "lossartan|25",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my lossartan, the 25 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "phone",
+  "answer": "omeprazole|20",
+  "got": "ownprasal|20",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my own Prasal, the 20 milligram tablets."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "omeprazole|20",
+  "got": "ownforgoes|20",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my own forgoes, the 20 milligram tablet."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "losartan|25",
+  "got": "loftarcing|25",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my loft arcing, the 25 milligram tablet."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "meloxicam|15",
+  "got": null,
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Neliktacam, the 15-milligram tablet."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "tamsulosin|4",
+  "got": "cantaloucine|4",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my cantaloucine, the 4 milligrams have less."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "lisinopril|10",
+  "got": null,
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "My need a refill on my list no proof. The 10 milligrams have left."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "atorvastatin|20",
+  "got": "atorvastitin|20",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Ator Vastitin, the 20 milligrams tablet."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "levothyroxine|50",
+  "got": "levothiercfine|50",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my levothierc fine, the 50 milligrams tablet."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "hydrochlorothiazide|25",
+  "got": "hydrochlorosiaesite|25",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my hydrochlorosiaesite, the 25 milligrams tablet."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "sertraline|50",
+  "got": "thirdrelime|50",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my third-relime, the 50 milligram tablet."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "amlodipine|5",
+  "got": null,
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my amla d'apine, the 5 milligrams tablet."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "gabapentin|300",
+  "got": "gabbypencil|300",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Gabby Pencil, the 300 milligrams tablet."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "metformin|500",
+  "got": null,
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Met4Min, the 500 milligrams tablet."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "tamsulosin|4",
+  "got": "tantalox|4",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my tantalox, the 4 milligrams tablet."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "gabapentin|300",
+  "got": null,
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Gabby's pendant, the 300 milligrams tablet."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "amlodipine|5",
+  "got": "amletoftime|5",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my amlet of time, 5 milligram tablet."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my metformin, the 500 milligrams tablet."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "hydrochlorothiazide|25",
+  "got": "hydrochlorosiaesis|25",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my hydrochlorosiaesis, the 25 milligrams tablet."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "meloxicam|15",
+  "got": "melonichicam|15",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my melonichicam, the 15 milligrams tablet."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "amlodipine|5",
+  "got": "ammadenite|5",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my amma-denite, the 5 milligram tavern."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "sertraline|50",
+  "got": "sertraline|50",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my sertraline, the 50 milligram taverns."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my metformin, the 500 milligram tablet."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "atorvastatin|20",
+  "got": "atovastatine|20",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Atovastatine, the 20 milligram tablet."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "losartan|25",
+  "got": "lusartan|25",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my lusartan, the 25 milligrams tablet."
+ },
+ {
+  "model": "base.en",
+  "cond": "noisy",
+  "answer": "omeprazole|20",
+  "got": "ownpretzel|20",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my own pretzel, the 20 milligram tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "omeprazole|20",
+  "got": "umprazole|20",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my umprazole, the 20mg tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "losartan|25",
+  "got": "losartan|25",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Losartan, the 25mg tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "meloxicam|15",
+  "got": "melexicam|15",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Melexicam, the 15 milligram tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "tamsulosin|4",
+  "got": "tanzelosin|4",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my tanzelosin, the 4mg tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "lisinopril|10",
+  "got": "lisinopril|10",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my lisinopril, the 10mg tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "atorvastatin|20",
+  "got": "atorvastatin|20",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Atorvastatin, the 20mg tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "levothyroxine|50",
+  "got": "levothericsign|50",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Levotheric sign, the 50 milligram tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "hydrochlorothiazide|25",
+  "got": "hydrochlorotheazide|25",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my hydrochlorotheazide, the 25 milligram tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "sertraline|50",
+  "got": "sergerline|50",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my serger line, the 50mg tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "amlodipine|5",
+  "got": "amlodipine|5",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my amlodipine, the 5mg tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "gabapentin|300",
+  "got": "gabapentin|300",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Gabapentin, the 300mg tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my metformin, the 500mg tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "tamsulosin|4",
+  "got": "tamsulosan|4",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Tamsulosan, the 4mg tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "gabapentin|300",
+  "got": "gabbypenton|300",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Gabby Penton, the 300mg tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "amlodipine|5",
+  "got": "amlitapine|5",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my amlita pine, the 5mg tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my metformin, the 500mg tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "hydrochlorothiazide|25",
+  "got": "hydrochlorothiazide|25",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my hydrochlorothiazide, the 25mg tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "meloxicam|15",
+  "got": "meloxicam|15",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my meloxicam, the 15mg tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "amlodipine|5",
+  "got": "amadipine|5",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my amadipine, the 5 milligram tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "sertraline|50",
+  "got": "sertraline|50",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my sertraline, the 50 milligram tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my metformin, the 500mg tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "atorvastatin|20",
+  "got": "atavastatin|20",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my atavastatin, the 20mg tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "losartan|25",
+  "got": "losartan|25",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my losartan, the 25 milligram tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "wide",
+  "answer": "omeprazole|20",
+  "got": "ownpresol|20",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my own presol, the 20mg tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "omeprazole|20",
+  "got": "umprazole|20",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my umprazole, the 20 milligram tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "losartan|25",
+  "got": "losartan|25",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my losartan, the 25 milligram tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "meloxicam|15",
+  "got": "melexicam|15",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Melexicam, the 15 milligram tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "tamsulosin|4",
+  "got": "tanzelosin|4",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my tanzelosin, the 4 milligram tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "lisinopril|10",
+  "got": "listenerpool|10",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my listener pool, the 10 milligram tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "atorvastatin|20",
+  "got": "atorvastatin|20",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my atorvastatin, the 20 milligram tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "levothyroxine|50",
+  "got": "levesieuxsign|50",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Levesieux sign, the 50 milligram tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "hydrochlorothiazide|25",
+  "got": "hydrochlorothiazide|25",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my hydrochlorothiazide, the 25 milligram tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "sertraline|50",
+  "got": "sergerline|50",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my serger line, the 50 milligram tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "amlodipine|5",
+  "got": "amlodipine|5",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my amlodipine, the 5 milligram tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "gabapentin|300",
+  "got": "gabapentin|300",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my gabapentin, the 300 milligram tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my metformin, the 500 milligram tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "tamsulosin|4",
+  "got": "tamsulosin|4",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Tamsulosin, the 4mg tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "gabapentin|300",
+  "got": "gabbypenton|300",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Gabby Penton, the 300 milligram tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "amlodipine|5",
+  "got": "amlidatpine|5",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my amlid at pine, the 5 milligram tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my metformin, the 500 milligram tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "hydrochlorothiazide|25",
+  "got": "hydrochlorothiazide|25",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my hydrochlorothiazide, the 25 milligram tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "meloxicam|15",
+  "got": "meloxicam|15",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my meloxicam, the 15 milligram tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "amlodipine|5",
+  "got": "amadipine|5",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my amadipine, the 5 milligram tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "sertraline|50",
+  "got": "sertraline|50",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my sertraline, the 50 milligram tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my metformin, the 500 milligram tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "atorvastatin|20",
+  "got": "atavastatin|20",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my atavastatin, the 20 milligram tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "losartan|25",
+  "got": "losartan|25",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my losartan, the 25 milligram tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "phone",
+  "answer": "omeprazole|20",
+  "got": "ownpresol|20",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my own presol, the 20 milligram tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "omeprazole|20",
+  "got": "oomphrazone|20",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my oomphrazone, the 20 milligram tablet."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "losartan|25",
+  "got": "loftgarden|25",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my loft garden, the 25 milligram tablet."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "meloxicam|15",
+  "got": "mlexicam|15",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my mlexicam, the 15 milligram tablet."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "tamsulosin|4",
+  "got": "tanzelaustin|4",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my tanzel Austin, the 4 milligram tablet."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "lisinopril|10",
+  "got": "listenerprobe|10",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my listener probe, the 10 milligram tablet."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "atorvastatin|20",
+  "got": "atourvestitine|20",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my a  tour vestitine, the 20 milligram tablet."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "levothyroxine|50",
+  "got": "leatherfiercsign|50",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my leather-fierc-sign, the 50 milligram tablet."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "hydrochlorothiazide|25",
+  "got": "hydrochlorothiazide|25",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my hydrochlorothiazide, the 25 milligram tablet."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "sertraline|50",
+  "got": "sertralign|50",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Sertralign, the 50 milligram tablet."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "amlodipine|5",
+  "got": "amlodipine|5",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my amlodipine, the 5 milligram tablet."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "gabapentin|300",
+  "got": "gabapentin|300",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Gabapentin, the 300 milligram tablet."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Metformin, the 500 milligram tablet."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "tamsulosin|4",
+  "got": "tamsulosan|4",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Tamsulosan, the 4mg tablet."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "gabapentin|300",
+  "got": "gabbypendant|300",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Gabby Pendant, the 300 milligram tablet."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "amlodipine|5",
+  "got": null,
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my amyloid of time, a 5mg tablet."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my metformin, the 500mg tablet."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "hydrochlorothiazide|25",
+  "got": "hydrochlorothiazide|25",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my hydrochlorothiazide, the 25 milligram tablet."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "meloxicam|15",
+  "got": "melicchicken|15",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my melic chicken, the 15mg tablet."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "amlodipine|5",
+  "got": "amigrine|5",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my amigrine, the 5 milligram tablet."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "sertraline|50",
+  "got": "sertraline|50",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my sertraline, the 50 milligram tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "metformin|500",
+  "got": "metformin|500",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my metformin, the 500 milligram tablet."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "atorvastatin|20",
+  "got": "atavastertip|20",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Atavaster tip, the 20 milligram tablets."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "losartan|25",
+  "got": "losartan|25",
+  "correct": true,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my Losartan, the 25 milligram tablet."
+ },
+ {
+  "model": "small.en",
+  "cond": "noisy",
+  "answer": "omeprazole|20",
+  "got": "ownpresol|20",
+  "correct": false,
+  "swapped_to_listed": false,
+  "text": "I need a refill on my own presol, the 20 milligram tablets."
+ }
+]
